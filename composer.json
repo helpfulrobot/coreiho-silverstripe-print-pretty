@@ -1,7 +1,7 @@
 {
 	"name": "coreiho/developertoolbox",
 	"description": "Adds various tools to help during development and testing.",
-	"type": "silverstripe-module",
+	"type": "module",
 	"keywords": ["silverstripe", "development"],
 	"homepage": "http://pseudo.geek.nz",
 	"authors": [{
