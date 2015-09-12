@@ -1,0 +1,14 @@
+{
+	"name": "coreiho/developertoolbox",
+	"description": "Adds various tools to help during development and testing.",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "development"],
+	"homepage": "http://pseudo.geek.nz",
+	"authors": [{
+		"name": "Gorrie Coe",
+		"email": "gorriecoe@gmail.com"
+	}],
+    "require": {
+        "coreiho/awhina": "*"
+    }
+}
