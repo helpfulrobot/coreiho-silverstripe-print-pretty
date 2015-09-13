@@ -16,10 +16,8 @@ define('TAURANGI_STYLE', 'firefox');
 // 	define('TAURANGI_ACCESS', false);
 // }
 
-require_once(__DIR__.'/vendor/taurangi/class.taurangi.php');
+require_once(__DIR__.'/vendor/awhina/class.awhina.php');
 
 function pp($input){
-	taurangi::prettyPrint($input);
+	awhina::prettyPrint($input);
 }
-
-Page_Controller::add_extension('DeveloperTools');
