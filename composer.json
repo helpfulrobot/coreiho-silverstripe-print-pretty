@@ -9,6 +9,6 @@
 		"email": "gorriecoe@gmail.com"
 	}],
     "require": {
-        "coreiho/awhina": "*"
+        "coreiho/awhina": "dev-master"
     }
 }

@@ -16,7 +16,7 @@ define('TAURANGI_STYLE', 'firefox');
 // 	define('TAURANGI_ACCESS', false);
 // }
 
-require_once(__DIR__.'/vendor/awhina/class.awhina.php');
+require_once(__DIR__.'/vendor/coreiho/awhina/class.awhina.php');
 
 function pp($input){
 	awhina::prettyPrint($input);
