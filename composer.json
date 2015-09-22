@@ -1,6 +1,6 @@
 {
-	"name": "coreiho/developertoolbox",
-	"description": "Adds various tools to help during development and testing.",
+	"name": "coreiho/silverstripe-print-pretty",
+	"description": "Intergrate silverstripe with awhina. awhina: Helps debugging by outputting variables as pretty print. Working as a replacement to is a replacement for print_r() and var_dump().",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "development"],
 	"homepage": "http://pseudo.geek.nz",
