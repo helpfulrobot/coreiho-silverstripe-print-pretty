@@ -3,6 +3,7 @@
 	"description": "Intergrate silverstripe with awhina. awhina: Helps debugging by outputting variables as pretty print. Working as a replacement to is a replacement for print_r() and var_dump().",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "development"],
+	"license": "BSD-3-Clause",
 	"homepage": "http://pseudo.geek.nz",
 	"authors": [{
 		"name": "Gorrie Coe",
